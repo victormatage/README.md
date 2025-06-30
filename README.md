@@ -1,6 +1,4 @@
 # Cybersecurity Lab Project: Cloud-Based Home SOC with Azure Sentinel and Honeypot
-![image](https://github.com/user-attachments/assets/5273c75b-5a8e-4f11-a2b1-3a4ea97911a3)
-
 ## Project Goal
 This project demonstrates the setup and operation of a foundational Security Operations Center (SOC) environment in **Microsoft Azure**. By deploying a **honeypot** (a deliberately vulnerable system) and integrating its logs with **Azure Sentinel**, this lab provides hands-on experience in cloud infrastructure security, real-time threat detection, log analysis, and Security Information and Event Management (SIEM) operations.
 
